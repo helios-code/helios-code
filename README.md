@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/loicmancino" target="blank"><img src="https://img.shields.io/twitter/follow/loicmancino?logo=twitter&style=for-the-badge" alt="loicmancino" /></a> </p>
 
-- 🔭 I’m currently working on **TTM-Holdings as a CPTO**
+- 🔭 I’m currently working on **Trustia as a CEO**
 
 - 🌱 I’m currently learning **Solidity**
 
-- 📝 I regularly write articles on [https://medium.com/@loicmancino.work](https://medium.com/@loicmancino.work)
+- 📝 I regularly write articles on [blog.trustia.finance](blog.trustia.finance)
 
 - 💬 Ask me about **Python, finances, blockchain**
 
-- 📫 How to reach me **loic.mancino@ttm-holdings.ch**
+- 📫 How to reach me **loic.mancino@trustia.finance**
 
-- ⚡ Fun fact **I have a shiba called Nakamoto**
+- ⚡ Fun fact **I have two shibas called Nakamoto and Tsunade**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
