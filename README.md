@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Trustia as a CEO**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **REACT.JS**
 
 - 📝 I regularly write articles on [blog.trustia.finance](blog.trustia.finance)
 
@@ -18,8 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/loicmancino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loicmancino" height="30" width="40" /></a>
-<a href="https://instagram.com/helios.code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="helios.code" height="30" width="40" /></a>
-<a href="https://medium.com/loicmancino.work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="loicmancino.work" height="30" width="40" /></a>
+<a href="https://instagram.com/heliosmarket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="helios.code" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/holdermedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="holdermedia" height="30" width="40" /></a>
 </p>
 
